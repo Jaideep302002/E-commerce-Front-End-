@@ -1,2 +1,2 @@
-# E-commerce-Front-End-
-This is an E commerce website with full responsiveness from all the device.
+# E-commerce
+This is the clone of an E-commerce website contains only Front-End.
